@@ -1,0 +1,9 @@
+What are the types of Applications ?
+
+Applications can be catagorized into different types based on how they are used and where they run.
+
+1) WEB Applications : They run on a web browser and they need internet to work.
+                      Example: Gmail, Facebook and online shopping websites.
+
+2) MOBILE APPLICATIONS : These are apps designed for smartphones or tablates.
+                        Example: Instagram, Whatsapp and mobile games.
