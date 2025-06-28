@@ -1,7 +1,0 @@
-What is tuple ? difference between list and tuple.
-
-A tuple is a collection type in Python that is similar to list but with an important difference : tuple are immutable. 
-This means once a tuple is created, you cannot modify its elements, unlike lists, which are mutable ( you can change the content of lists).
-
-Tuples are used to store multiple items in a single variable and are typically used when you want to ensure the integrity of the data
-(i.e. you don't want the data to be accidentally modified).

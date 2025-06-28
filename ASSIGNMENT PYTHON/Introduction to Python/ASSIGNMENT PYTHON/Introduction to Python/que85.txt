@@ -1,5 +1,0 @@
-When will the else part of try-except-else be executed? 
-
-The else block in a try-except-else statement executes only if no exceptation occurs in try block.
-if an exception is raised, the else block is skipped, and the program moves to the corresponding 
-except block.
