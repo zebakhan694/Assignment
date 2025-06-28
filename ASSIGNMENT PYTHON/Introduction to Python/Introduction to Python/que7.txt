@@ -1,0 +1,35 @@
+How memory is managed in Python? 
+
+Memory management in python is handled automatically by the python interpreter using 
+a combination of techniques and built in components.
+
+1) Automatically Memory management
+
+   you don't need to tell python to allocate or free memory,
+   python takes care it automatically
+
+
+2) Refrence Counting
+
+   Evrey object in python keeps track of how many times its being 
+   used that is called refrence.
+
+   -> when you use variable, the count goes up
+   -> when you are done using it, the count goes down
+   -> if the count become zero, python deletes it to save memory
+
+
+3) Garbage Collector
+
+   sometimes object refers to each other and dont get deleted even if 
+   you are not using them
+
+   python has a helper called garbage collector that finds and deletes
+   these unused objects
+
+
+4) Efficient Memory use
+
+   Python tries to save memory by:
+   -> Reusing small numbers (like 1,2,3).
+   -> Sharing the same string if it's used multiple times. 
