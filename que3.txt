@@ -1,0 +1,20 @@
+What is Python ?
+
+-> Python is a programming language that tell computer what to do.
+
+-> it is widely used becuase it is simple, easy to read and powerful.
+
+-> it was created by Guido van Rossum in 1991, and 
+   today, it is one of the most popular programming language in the world
+
+FEATURES 
+
+1) Easy to learn -> Python looks like simple english, making itt beginner-friendly.
+
+2) Less code, more work -> yopu can do a lot with fewer lines of code.
+
+3) Runs Everywhere -> Works on windows, mac and linux.
+
+4) Used for Many Thing -> Python is used in websites, apps, data science, automation, and more.
+
+5) Has Ready-Made Tools -> Python has thousads of libraries (pre-made code) that save time
