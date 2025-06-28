@@ -1,1 +1,0 @@
-# write a python program tp split a list into different variables. 

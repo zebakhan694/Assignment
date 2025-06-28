@@ -1,3 +1,0 @@
-What happens when „1‟== 1 is executed? 
-
-it gives false because "1" is a sting value and 1 is an integer value.

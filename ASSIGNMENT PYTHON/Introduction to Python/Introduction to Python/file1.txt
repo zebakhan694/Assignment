@@ -1,5 +1,0 @@
-hello
-my name is zeba khan
-i am from udaipur
-currently, i m learning python programming
-udaipur is a beautiful city

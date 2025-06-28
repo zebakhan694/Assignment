@@ -1,4 +1,0 @@
-What is programming ?
-
-Programming is the process of giving instructions to the computer to make it perform specific task.
-These instructions are written in a language that the computer can understand, called programming language.
